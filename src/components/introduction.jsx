@@ -29,7 +29,7 @@ export default class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing"
+                              href="https://docs.google.com/document/d/1m8eTa8keHiU7JloEpffBXrCr-VCVDNES0rbLeaI0rQ0/edit?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -61,7 +61,7 @@ export default class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://github.com/dbarochiya"
+                              href="https://github.com/SumonRayy"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -92,7 +92,7 @@ export default class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://dhruvbarochiya.me/"
+                              href="https://nowchat.in/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
