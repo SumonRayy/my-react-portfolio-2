@@ -69,7 +69,8 @@ export default class Timeline extends Component {
                           IOT, Web-Data Management over the years and have
                           better understanding of these subjects.I have also
                           been part of C.R.(Class Representative) since my first
-                          year of college and T.P.R(Training and PlaceMents ).
+                          year of college and T.P.R(Training and Placements
+                          Representative).
                         </p>
                       </div>
                     </div>
